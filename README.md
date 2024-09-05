@@ -39,11 +39,9 @@
         <img style="width: 30px;" src="https://user-images.githubusercontent.com/5418178/175823761-ee7996b9-57be-4abf-be93-0ad25e7f37f0.png" alt="RegEx" />
       </th>
     </tr>
-    <tr>
+    <tr>  
       <th>
-        <img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" />
-        <img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" />
-        <img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" />
+        <img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
       </th>
       <th>
         Coming soon...
