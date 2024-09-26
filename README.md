@@ -32,6 +32,7 @@
       </th>
       <th>
         <img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" />
+        <img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn"/>
         <img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="Sqlite"/>
         <img style="width: 30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" />
         <img style="width: 30px" src="https://customtkinter.tomschimansky.com/img/icon.ico" alt="CustomTkinter" />
