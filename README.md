@@ -12,7 +12,7 @@
 <div align=center">
   <a href="https://github.com/Rafaelszc">
     <img src="https://github-readme-stats.vercel.app/api?username=Rafaelszc&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide_border=true&rank_icon=github" />
-    <img style="width: 350px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelszc&layout=donut&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide=scss,jupyter%20notebook&hide_border=true" />
+    <img style="width: 350px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelszc&layout=donut&show_icons=true&icon_color=FFFFFF&theme=dark&bg_color=FFFFFF00&hide_title=true&hide=jupyter%20notebook&hide_border=true" />
   </a>        
 </div>
 <br>
