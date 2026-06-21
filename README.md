@@ -16,6 +16,3 @@
   </a>        
 </div>
 <br>
-
-## Skills & Technologies 
-![skills](https://skillicons.dev/icons?i=java,python,javascript,c,spring,fastapi,postgres,react,tailwind,sklearn,selenium,tensorflow,git,github,docker,regex,bash)
