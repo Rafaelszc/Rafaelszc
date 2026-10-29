@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2a20,100:6f4e37&height=170&section=header&text=Rafael%20Souza&fontColor=f5e6d3&fontSize=48&fontAlignY=40&desc=%E2%98%95%20code%20brewed%20slowly&descAlignY=62&descSize=16" width="100%" />
 
 <a href="https://github.com/Rafaelszc">
-  <img src="https://raw.githubusercontent.com/Rafaelszc/Rafaelszc/main/imagens/eu.gif" width="380" />
+  <img src="https://raw.githubusercontent.com/Rafaelszc/Rafaelszc/main/imagens/eu.gif" />
 </a>
 
 <a href="https://github.com/Rafaelszc">
